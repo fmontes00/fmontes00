@@ -1,7 +1,7 @@
   
 <div id="header" align="center">
     <h1 align="center"> 👋 Hi, I’m Fernando </h1>
-    <h3 align="center">I'm a Software Developer focused on Python and back-end technologies. Passionate for learning new technologies, and improving my abilities.</h3>
+    <h3 align="center">I'm a Software Developer focused on Python. Passionate for learning new technologies, and improving my abilities.</h3>
 </div>
   
   
